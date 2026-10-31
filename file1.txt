@@ -2,3 +2,7 @@ yagna
 pandu
 chandu 
 sushu
+cat
+dog
+ant
+tiger
